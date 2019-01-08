@@ -14,10 +14,6 @@ I sintomi sono vari ed a volte appaiono slegati tra di loro, stanchezza, mal di 
 
 Le cause sono varie, ridotto introito per alimentazione scorretta o malassorbimento, aumentato fabbisogno come nei bambini e nelle donne in gravidanza, aumentate perdite da varie patologie.
 
-
-
-
-
 ![](/img/epidemiology-ferro.png)
 
 Il ferro infatti è un oligoelemento essenziale per la  vita, interviene non solo nella produzione dei globuli rossi ma anche in altri processi importanti per la vita, trascurare e non curare questa situazione può poi portare alla patologia vera e propria ossia l'anemia da carenza di ferro (I.D.A., Iron Deficiency Anaemia).

@@ -2,11 +2,8 @@
 title: Anemia in paziente con HHT
 date: 2018-12-30T14:49:48.908Z
 description: >+
-  Gestione dell'anemia sideropenica secondaria a perdita in paziente con 
+  Gestione dell'anemia sideropenica secondaria a perdita in paziente con
   teleangectasia emorragica ereditaria in terapia con antiaggreganti.
-
-
-
 image: /img/http___media-s3.blogosfere.it_scienzaesalute_d_dfd_sangue-vena-1.jpg
 ---
 A fine anno si e' soliti fare delle valutazioni, in questo caso rivalutiamo i risultati ottenuti nella gestione dell'anemia in un paziente affetto da HHT con l'aggravante della terapia antiaggregante per pregresso infarto del miocardio.

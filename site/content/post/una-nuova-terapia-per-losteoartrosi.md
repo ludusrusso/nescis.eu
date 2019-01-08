@@ -22,6 +22,5 @@ http://www.orthokine.it
 
 https://www.nbc.nlm.nih.gov/pubmed/18674932
 
-Autologous conditioned serum (ACS) for intra-articular treatment in Osteoarthritis: Retrospective report of 28 cases Michela Tassaraa,⁎, Alessandro De Pontib, Lorena Barzizzaa, Matilde Zambellia, Cristina Parisia, Raffaella Milania, Luca Santoleri
-
-- - -
+Autologous conditioned serum (ACS) for intra-articular treatment in Osteoarthritis: Retrospective report of 28 cases
+ Michela Tassaraa,⁎, Alessandro De Pontib, Lorena Barzizzaa, Matilde Zambellia, Cristina Parisia, Raffaella Milania, Luca Santoleri
