@@ -20,8 +20,16 @@ Le alterazioni gastriche si localizzano particolarmente sulla mucosa del fondo e
 
 Presso l'università di Pavia e' stato condotto uno studio valutando le cause di diagnosi in 99 pz esaminati con GAA.
 
-La maggior parte dei pz aveva più di 50 aa, i sintomi gastroenterici più importanti erano il dolore gastrico ,pirosi e dimagramento, più della metà dei  pz aveva una patologia autoimmune correlata la più frequente la tiroidite di hashimoto.
+La maggior parte dei pz aveva più di 50 aa, i sintomi gastroenterici più importanti erano il dolore gastrico ,pirosi e dimagramento, più della metà dei  pz aveva una patologia autoimmune correlata la più frequente la tiroidite di Hashimoto.
+
+La maggior parte dei pazienti è giunta alla diagnosi in seguito al riscrontro di alterazioni ematologiche.
+
+Bibliografia:
+
+Gastrite atrofica autoimmune: prevalenza, presentazione clinica e clusters diagnosticiMarco Vincenzo Lenti, Donatella Padula, Emanuela Miceli, Gino Roberto Corazza 2011
+
+
 
 ```
-la maggior parte dei pz è arrivata alla diagnosi per il riscontro di alterazioni ematologiche,dovute alla carenza di b12 ma anche alla sideropenia forse causata dalla a-ipocloridria.
+
 ```
