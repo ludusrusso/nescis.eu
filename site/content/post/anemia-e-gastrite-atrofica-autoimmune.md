@@ -6,23 +6,21 @@ description: >-
   pazienti con GAA.  
 image: /img/gaa.png
 ---
-La GGA  è una forma di gastrite caratterizzata da alterazioni ifiammatorie croniche della mucosa gastrica su base autoimmune che conducono ad atrofia e metaplasia in assenza di erosioni.
+La GGA  è una forma di gastrite caratterizzata da alterazioni infiammatorie croniche della mucosa gastrica su base autoimmune che conducono ad atrofia e metaplasia, in assenza di erosioni.
 
-rappresenta circa il 10% delle gastriti croniche, il 90% è dovuto alle gastriti croniche atrofiche sostenute da infezione cronica di Helicobacte pylori.
+Rappresenta circa il 10% delle gastriti croniche, il 90% è dovuto alle gastriti croniche atrofiche sostenute da infezione cronica di Helicobacter pylori.
 
-nei soggetti con GAA si trovano pattner anticorpali  (PCA positivi nel 50-86% dei casi )diretti contro le cellule parietali gastriche deputate alla produzione di acido cloridrico e/o contro il Fattore intrinseco(nell'1-3% casi) . 
+Nei pazienti con GAA si ritrovano pattner anticorpali diretti contro le cellule parietali gastriche deputate alla produzione di acido cloridrico e/o contro il Fattore intrinseco.
 
 La GAA conduce a a-ipocloridria, deficit di fattore intrinseco e nel tempo a deficit di vitamina B12 configurando il quadro sistemico dell'anemia perniciosa.
 
-Gli anticorpi diretti contro il fattore intrinseco alterano la capacità di questa proteina di legare la vitamina b12,determinandone la carenza  e  l'anemia perniciosa.
+La causa dei fenomeni autoimmuni e' da ricercare in un piu' ampio disordine immunologico e infatti la GAA spesso si associa a tiroiditi autoimmuni , diabete.
 
-La causa dei fenomeni autoimmuni e' da ricercare in un piu' ampio disordime immunologico e infatti la GAA spesso si associa a tiroiditi autoimmuni , diabete.
+Le alterazioni gastriche si localizzano particolarmente sulla mucosa del fondo e corpo dello stomaco e possono portare ad alterazioni precancerose, per questo motivo i pazienti devono sottoporsi periodicamente a gastroscopia di controllo.
 
-le alterazioni si localizzano particolarmente sulla mucosa del fondo e corpo dello stomaco e possono portare ad alterazioni precancerose, per questo motivo i pazienti devono sottoporsi periodicamente a gastroscopia di controllo.
+Presso l'università di Pavia e' stato condotto uno studio valutando le cause di diagnosi in 99 pz esaminati con GAA.
 
-poichè la patologia non è ancora ben definita a c/o l'università di Pavia e' stato condotto uno studio valutando le cause di diagnosi in 99 pz esaminati con diagnosi di GAA.
-
-la maggior parte dei pz era tra 50 e 80 anni, i sintomi g/e piu' importanti dolore gastrico pirosi e dimagramento, il 51,6% dei pz aveva una patologia autoimmune correlata la più frequente la tiroidite di hashimoto.
+La maggior parte dei pz aveva più di 50 aa, i sintomi gastroenterici più importanti erano il dolore gastrico ,pirosi e dimagramento, più della metà dei  pz aveva una patologia autoimmune correlata la più frequente la tiroidite di hashimoto.
 
 ```
 la maggior parte dei pz è arrivata alla diagnosi per il riscontro di alterazioni ematologiche,dovute alla carenza di b12 ma anche alla sideropenia forse causata dalla a-ipocloridria.
